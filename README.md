@@ -22,13 +22,6 @@ Sou um desenvolvedor focado em **Backend**, construindo soluções com o ecossis
 
 ---
 
-### 📈 Estatísticas e Performance
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=octocat&show_icons=true&theme=dark" />
-</p>
----
-
 ### 
 <div> 
 <a href="mailto:davidssantana.119@gmail.com" target="_blank">
