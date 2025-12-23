@@ -24,12 +24,9 @@ Sou um desenvolvedor focado em **Backend**, construindo soluções com o ecossis
 
 ### 📈 Estatísticas e Performance
 
-<p align="center"> 
-  
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=davidSantana0&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidSantana0&layout=compact&theme=dark&hide_border=true&langs_count=6" />
-</p> 
-
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=octocat&show_icons=true&theme=dark" />
+</p>
 ---
 
 ### 
